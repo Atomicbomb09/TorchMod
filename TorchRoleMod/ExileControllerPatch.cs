@@ -1,6 +1,7 @@
 ﻿using HarmonyLib;
 using ExileController = CNNGMDOPELD;
 using GameDataPlayerInfo = EGLJNOMOGNP.DCJMABDDJCF;
+using GameOptionsData = KMOGFLPJLLK;
 
 namespace TorchRoleMod
 {
@@ -9,7 +10,8 @@ namespace TorchRoleMod
 	{
 		public static void Postfix([HarmonyArgument(0)] GameDataPlayerInfo exiled, ExileController __instance)
 		{
-			if (exiled.JKOMCOJCAID == PlayerControlPatch.Torch.PlayerId)
+			GameOptionsData GameOptions = new GameOptionsData();
+			if (exiled.JKOMCOJCAID == PlayerControlPatch.Torch.PlayerId && GameOptions.HGOMOAAPHNJ)
             {
 				__instance.EOFFAJKKDMI = exiled.EIGEKHDAKOH + " was The Torch.";
 
