@@ -36,3 +36,13 @@ C:\Users\thoma\Desktop\Among Us\12.9s\VS Projects\Torch Role Mod\TorchRoleMod\ob
 C:\Users\thoma\Desktop\Among Us\12.9s\VS Projects\Torch Role Mod\TorchRoleMod\obj\Debug\TorchRoleMod.csproj.CopyComplete
 C:\Users\thoma\Desktop\Among Us\12.9s\VS Projects\Torch Role Mod\TorchRoleMod\obj\Debug\TorchRoleMod.dll
 C:\Users\thoma\Desktop\Among Us\12.9s\VS Projects\Torch Role Mod\TorchRoleMod\obj\Debug\TorchRoleMod.pdb
+C:\Users\thoma\Documents\Github\Torch Mod\TorchMod\TorchRoleMod\bin\Debug\TorchRoleMod.dll
+C:\Users\thoma\Documents\Github\Torch Mod\TorchMod\TorchRoleMod\bin\Debug\TorchRoleMod.pdb
+C:\Users\thoma\Documents\Github\Torch Mod\TorchMod\TorchRoleMod\bin\Debug\Il2CppSystem.Core.dll
+C:\Users\thoma\Documents\Github\Torch Mod\TorchMod\TorchRoleMod\bin\Debug\UnityEngine.UI.dll
+C:\Users\thoma\Documents\Github\Torch Mod\TorchMod\TorchRoleMod\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\thoma\Documents\Github\Torch Mod\TorchMod\TorchRoleMod\obj\Debug\TorchRoleMod.csprojAssemblyReference.cache
+C:\Users\thoma\Documents\Github\Torch Mod\TorchMod\TorchRoleMod\obj\Debug\TorchRoleMod.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Documents\Github\Torch Mod\TorchMod\TorchRoleMod\obj\Debug\TorchRoleMod.csproj.CopyComplete
+C:\Users\thoma\Documents\Github\Torch Mod\TorchMod\TorchRoleMod\obj\Debug\TorchRoleMod.dll
+C:\Users\thoma\Documents\Github\Torch Mod\TorchMod\TorchRoleMod\obj\Debug\TorchRoleMod.pdb
