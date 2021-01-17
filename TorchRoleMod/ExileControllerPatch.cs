@@ -10,8 +10,7 @@ namespace TorchRoleMod
 	{
 		public static void Postfix([HarmonyArgument(0)] GameDataPlayerInfo exiled, ExileController __instance)
 		{
-			GameOptionsData GameOptions = new GameOptionsData();
-			if (exiled.JKOMCOJCAID == PlayerControlPatch.Torch.PlayerId && GameOptions.HGOMOAAPHNJ)
+			if (exiled.JKOMCOJCAID == PlayerControlPatch.Torch.PlayerId && !(__instance.EOFFAJKKDMI.Substring(__instance.EOFFAJKKDMI.LastIndexOf(".")-11) == "was ejected."))
             {
 				__instance.EOFFAJKKDMI = exiled.EIGEKHDAKOH + " was The Torch.";
 
