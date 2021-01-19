@@ -4,7 +4,7 @@ using HarmonyLib;
 
 namespace TorchRoleMod
 {
-	[BepInPlugin("gg.tomozbot.torchrolemod", "Torch Mod", "1.0.0")]
+	[BepInPlugin("gg.tomozbot.torchrolemod", "Torch Mod", "1.0.2")]
 	public class TorchRoleMod : BasePlugin
 	{
 		public override void Load()
